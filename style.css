@@ -1,6 +1,9 @@
 body {
   width: 100%;
+  height: max-content;
   min-height: 2000px;
+  position: absolute;
+  position: fixed;
 }
 
 .jumbotron {
